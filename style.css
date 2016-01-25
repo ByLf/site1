@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: antiquewhite;
+}
+iframe {
+    overflow: hidden;
+}
+.t{
+    display: inline-block;
+  float: right;  
+}
+.f{
+    display: inline-block;
+    float: left;
+}
