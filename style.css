@@ -2,50 +2,115 @@ html,body{
   margin: 0px;
   padding: 0px;
   background-color: antiquewhite;
-  height: 100%
+  height: 100%;
 }
 iframe {
   overflow: hidden;
 }
+.b1{
+  display: block;
+  height: 20%;
+  width: 100%;
+}
+.b2{
+  display: block;
+  float: left;
+  height: 80%;
+  width: 90%;  
+}
+.b3{
+display: block;
+float: right;
+width: 10%;
+height: 80%;
+}
+.b4{
+display: block;
+width: 100%;
+height: 80%;
+}
+.b5{
+display: block;
+width: 100%;
+height: 20%;
+}
+.b6{
+display: block;
+float: left;
+width: 10%;
+height: 100%;
+}
+.b7{
+display: block;
+float: right;
+width: 90%;
+height: 20%;
+}
+.b8{
+display: block;
+float: right;
+width: 20%;
+height: 80%;
+}
+.b9{
+display: block;
+float: left;
+width: 70%;
+height: 80%;
+}
+.b10{
+display: block;
+width: 100%;
+height: 60%;
+}
+.b11{
+display: block;
+width: 100%;
+height: 40%;
+}
+
+
 .one{
-  display: inline-block;
-  width: 69%;
-  height: 30%;
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .two{
-  display: inline-block;
-  width: 29%;
-  height: 30%;
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .tree{
-  display: inline-block;
-  width: 29%;
-  height: 30%;
+  display:block;
+  width: 100%;
+  height: 100%;
 }
 .four{
-  display: inline-block;
-  width: 39%;
-  height: 30%;
+  display: block;
+  width: 100%;
+  height: 100%;
 }
 .five{
-  display: inline-block;
-  width: 29%;
-  height: 30%;
+  display:block;
+  width: 100%;
+  height: 100%;
 }
 .six{
-  display: inline-block;
-  width: 39%;
-  height: 40%;
-}
-.seven{
-  display: inline-block;
-  width: 29%;
-  height: 40%;
+  display:block;
+  width: 100%;
+  height: 100%;
 }
 .eight{
-  display: inline-block;
-  width: 29%;
-  height: 40%;
+  display:block;
+  float: left;
+  width: 50%;
+  height: 100%;
+}
+.seven{
+  display:block;
+  float: right;
+  width: 50%;
+  height: 100%;
 }
 .a1, .a2, .a3, .a4,  .a5, .a6, .a7, .a8 {
   width:100%; 
