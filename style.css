@@ -12,94 +12,37 @@ iframe {
   height: 20%;
   width: 100%;
 }
-.b2{
+.b4{
   display: block;
   float: left;
-  height: 80%;
+  height: 60%;
   width: 90%;  
+}
+.b2{
+display: block;
+float: right;
+height: 80%;
+width: 10%;
 }
 .b3{
 display: block;
-float: right;
-width: 10%;
-height: 80%;
-}
-.b4{
-display: block;
-width: 100%;
-height: 80%;
+float: left;
+height: 20%;
+width: 90%;
 }
 .b5{
 display: block;
-width: 100%;
-height: 20%;
+float: left;
+height: 100%;
+width: 10%;
 }
 .b6{
 display: block;
-float: left;
-width: 10%;
+float: right;
 height: 100%;
-}
-.b7{
-display: block;
-float: right;
 width: 90%;
-height: 20%;
-}
-.b8{
-display: block;
-float: right;
-width: 20%;
-height: 80%;
-}
-.b9{
-display: block;
-float: left;
-width: 70%;
-height: 80%;
-}
-.b10{
-display: block;
-width: 100%;
-height: 60%;
-}
-.b11{
-display: block;
-width: 100%;
-height: 40%;
 }
 
-
-.one{
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-.two{
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-.tree{
-  display:block;
-  width: 100%;
-  height: 100%;
-}
-.four{
-  display: block;
-  width: 100%;
-  height: 100%;
-}
-.five{
-  display:block;
-  width: 100%;
-  height: 100%;
-}
-.six{
-  display:block;
-  width: 100%;
-  height: 100%;
-}
 .eight{
   display:block;
   float: left;
@@ -112,7 +55,8 @@ height: 40%;
   width: 50%;
   height: 100%;
 }
-.a1, .a2, .a3, .a4,  .a5, .a6, .a7, .a8 {
+.am {
+  display: block;
   width:100%; 
   height:100%;
   border:none;
